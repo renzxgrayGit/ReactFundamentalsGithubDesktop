@@ -1,4 +1,4 @@
-// Functional Components, Declared Variable and pass the value as JSX
+// RANDOM isUserLoggedIn! Functional Components, Declared Variable and pass the value as JSX
 
 const FunctionalSample = () => {
   const name = 'Renz';
